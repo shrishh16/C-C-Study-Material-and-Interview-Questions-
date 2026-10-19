@@ -1,0 +1,3 @@
+C and C++ are foundational, highly efficient programming languages that serve as the backbone for much of modern software engineering.
+ While C is a procedural language created in the 1970s for system and hardware-level programming, 
+ C++ was developed by Bjarne Stroustrup in 1985 as an extension of C that introduces Object-Oriented Programming (OOP) paradigms
